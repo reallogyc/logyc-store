@@ -5,14 +5,13 @@
     "home_page_url": "https://store.logyc.xyz",
     "feed_url": "https://store.logyc.xyz/feed.json",
     "user_comment": "",
-    "icon": "https://store.logyc.xyz/media/website/20210130_115745.png",
     "author": {
         "name": "Maayur"
     },
     "items": [
         {
-            "id": "https://store.logyc.xyz/welcome.html",
-            "url": "https://store.logyc.xyz/welcome.html",
+            "id": "https://store.logyc.xyz/welcome/",
+            "url": "https://store.logyc.xyz/welcome/",
             "title": "Welcome",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -22,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2021-02-22T09:16:38+05:30",
-            "date_modified": "2021-02-22T09:16:38+05:30"
+            "date_modified": "2021-02-22T14:11:56+05:30"
         }
     ]
 }
