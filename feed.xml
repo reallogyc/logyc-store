@@ -3,7 +3,7 @@
     <title>LOGYCStore</title>
     <link href="https://store.logyc.xyz/feed.xml" rel="self" />
     <link href="https://store.logyc.xyz" />
-    <updated>2021-02-22T14:11:56+05:30</updated>
+    <updated>2021-02-22T16:11:15+05:30</updated>
     <author>
         <name>Maayur</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://store.logyc.xyz/welcome/"/>
         <id>https://store.logyc.xyz/welcome/</id>
 
-        <updated>2021-02-22T14:11:56+05:30</updated>
+        <updated>2021-02-22T16:11:15+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://store.logyc.xyz/media/posts/1/65.PNG" alt="" />
                      
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://store.logyc.xyz/media/posts/1/65.PNG" alt="" />
                 
   <p>
     

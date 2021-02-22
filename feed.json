@@ -15,13 +15,14 @@
             "title": "Welcome",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://store.logyc.xyz/media/posts/1/65.PNG",
             "author": {
                 "name": "Maayur"
             },
             "tags": [
             ],
             "date_published": "2021-02-22T09:16:38+05:30",
-            "date_modified": "2021-02-22T14:11:56+05:30"
+            "date_modified": "2021-02-22T16:11:15+05:30"
         }
     ]
 }
