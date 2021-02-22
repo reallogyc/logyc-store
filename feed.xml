@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>LOGYCStore</title>
+    <link href="https://store.logyc.xyz/feed.xml" rel="self" />
+    <link href="https://store.logyc.xyz" />
+    <updated>2021-02-22T09:16:38+05:30</updated>
+    <author>
+        <name>Maayur</name>
+    </author>
+    <id>https://store.logyc.xyz</id>
+
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>Maayur</name>
+        </author>
+        <link href="https://store.logyc.xyz/welcome.html"/>
+        <id>https://store.logyc.xyz/welcome.html</id>
+
+        <updated>2021-02-22T09:16:38+05:30</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
