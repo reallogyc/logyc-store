@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>LOGYCStore</title>
+    <title>LOGYC_Store</title>
     <link href="https://store.logyc.xyz/feed.xml" rel="self" />
     <link href="https://store.logyc.xyz" />
     <updated>1970-01-01T05:30:00+05:30</updated>
